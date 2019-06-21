@@ -31,15 +31,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+Short for Document Object Model, it is a “live” map of a webpage that JavaScript can use to make changes on a webpage..
 2. What is an event?
-
+It’s exactly the definition of the regular word “event” that happen in the DOM.
 3. What is an event listener?
-
+Something that can be called upon with established event objects.
 4. Why would we convert a NodeList into an Array?
-
+NodeLists are NOT a JavaScript API, its a browser API. The ‘.querySelectorAll()’ syntax allows access to DOM which results in freedom to manipulate the webpage with JavaScript.
 5. What is a component?
-
+Components are reusable pieces of code. According to whoever wrote the Lambda School Components material, ‘Components are the heart of any dynamic web page application and JavaScript framework.’
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
